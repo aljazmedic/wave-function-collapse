@@ -1,0 +1,12 @@
+#texturemap
+<size> <numTiles>
+<sockP1> <sockP2> ... <sockPn>
+#tiles
+<rotationBitmap> <weight> <name>
+<rotationBitmap> <weight> <name>
+...
+[#labels
+<colorHash> <label>
+<colorHash> <label>
+..
+#end]

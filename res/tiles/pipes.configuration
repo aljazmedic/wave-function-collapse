@@ -1,0 +1,17 @@
+#texturemap
+16 8
+10 40 64 -10 -40
+#tiles
+15 1 T
+15 1 L
+15 1 D
+3 2 I
+15 1 X
+1 4 C
+2 2 M
+1 4 Empty
+#labels
+0 Empty
+1325318664 1
+1459617792 0
+#end

@@ -1,0 +1,39 @@
+#texturemap
+128 23
+10 40 64 -10 -40
+#tiles
+1 1 GrassFullLeft
+1 1 GrassFullCenter
+1 1 GrassFullRight
+1 1 GrassEndRight
+1 1 GrassEndLeft
+1 1 DirtEndLeft
+1 1 DirtFull
+1 1 DirtEndRight
+1 1 DirtCurlRight
+1 1 DirtCurlLeft
+1 1 DirtBottomLeft
+1 1 DirtBottom
+1 1 DirtBottomRight
+1 1 Wave
+1 1 Water
+1 1 GrassFloatLeft
+1 1 GrassFloatCenter
+1 1 GrassFloatRight
+1 1 GrassShoreRight
+1 1 GrassShoreLeft
+1 1 DirtWaterLeft
+1 1 Empty
+1 1 DirtWaterRight
+#labels
+0 Empty
+-236949443 Grass
+-1008728911 DirtDownL
+2134721259 DirtDownR
+1994847264 Dirt
+1819888891 HighDirt
+1912925384 DirtBottomEdge
+-1211481676 Wave
+907516339 Water
+1601512331 FloatingGrass
+#end
